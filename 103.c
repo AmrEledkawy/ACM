@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define DEBUG
+#undef DEBUG
 
 #define MAX_BOX_DIMENSION	(10)
 #define MAX_BOX_NUM			(30)
